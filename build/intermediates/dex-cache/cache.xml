@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dio Rizkyandita\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\latihan\RamadhanAplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_77b473465a6660a242ad13a2ef88c89613c2a2c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\latihan\RamadhanAplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\latihan\RamadhanAplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_cd0af3d64b604851f5d3f497559ab7c58a8f9ac2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\latihan\RamadhanAplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\latihan\RamadhanAplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_7d65f89800ccc89921af70f6335940a70a82bbbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\latihan\RamadhanAplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\latihan\RamadhanAplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_afcd18b4a648de99ee65043c6c1a9702c3a48d64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\latihan\RamadhanAplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\latihan\RamadhanAplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_66217f8bece072712fe3aea3ec96bd0d087a6c7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\latihan\RamadhanAplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\latihan\RamadhanAplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_14db958627f4eda9d87d2e2a884ee95cd53e1bc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\latihan\RamadhanAplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\latihan\RamadhanAplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_cb5886a3d0cce13466f5d52fb15d5aa7b7a6e587\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\latihan\RamadhanAplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\latihan\RamadhanAplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_ba05203eb0d7aae9eac68a336ebb9132115c6d55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\latihan\RamadhanAplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38848f8801973d74f11f419481126cd202b856fe">
+        <dex dex="D:\latihan\RamadhanAplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_97e37d0b18d0cc200fc54d8d92e055736a03c960\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\latihan\RamadhanAplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4e278ead1c8cfec3e4d5788091faff3aaf0dd36a">
+        <dex dex="D:\latihan\RamadhanAplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4507ff7e6cdd55207b04539050a6c8fb46341eae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\latihan\RamadhanAplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\latihan\RamadhanAplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_d87b366b125743c716ee82c042a31fbed337eeff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\latihan\RamadhanAplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\latihan\RamadhanAplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_9b83c121113f86548559928685119082c76c6e64\classes.dex" />
+    </item>
+
+</items>

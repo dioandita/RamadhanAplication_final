@@ -1,0 +1,7 @@
+#Wed May 31 01:07:01 ICT 2017
+base.0=D\:\\latihan\\RamadhanAplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_97e37d0b18d0cc200fc54d8d92e055736a03c960
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\latihan\\RamadhanAplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4507ff7e6cdd55207b04539050a6c8fb46341eae\\classes.dex
+base.1=D\:\\latihan\\RamadhanAplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4507ff7e6cdd55207b04539050a6c8fb46341eae
+file.0=D\:\\latihan\\RamadhanAplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_97e37d0b18d0cc200fc54d8d92e055736a03c960\\classes.dex
