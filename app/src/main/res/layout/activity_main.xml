@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.diorizkyandita.ramadhanaplication.MainActivity">
+
+    <RelativeLayout
+        android:id="@+id/welcome_pesan"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="16dp"
+        android:background="@drawable/wallpaper"
+        android:visibility="visible"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+
+
+        <TextView
+            android:text="Selamat Datang di Aplikasi Ramadhan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:textColor="#ddd"
+            android:textSize="28dp"
+            android:textStyle="bold"
+            android:id="@+id/welcome_title" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ddd"
+            android:textSize="18dp"
+            android:id="@+id/welcome_message"
+            android:layout_below="@+id/welcome_title"
+            android:text="Tingkatkan amal ibadahmu dengan jadwal shalat rutin dan membaca alquran setiap hari untuk kesempurnaan ibadan di bulan ramadhan yang suci ini. Kami akan membantu anda :)"/>
+
+        <Button
+            android:text="Lanjutkan Beribadah"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:background="#3b978d"
+            android:onClick="dismisWelcomeMessageBox"
+            android:drawable="@mipmap/ic_launcher"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:textColor="#fff"
+            android:id="@+id/button" />
+
+
+
+    </RelativeLayout>
+
+     <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="20dp"
+        android:visibility="invisible"
+        android:id="@+id/content_layout"
+        android:paddingBottom="16dp"
+        android:background="@drawable/wallpaper1"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="16dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+         <ImageButton
+             android:layout_width="130dp"
+             android:layout_height="150dp"
+             app:srcCompat="@drawable/wallpaper3"
+             android:layout_marginLeft="18dp"
+             android:layout_marginStart="18dp"
+             android:layout_marginTop="108dp"
+             android:id="@+id/imageButton"
+             android:layout_alignParentTop="true"
+             android:layout_alignParentLeft="true"
+             android:layout_alignParentStart="true" />
+
+         <ImageButton
+             android:layout_width="150dp"
+             android:layout_height="150dp"
+             app:srcCompat="@drawable/wallpaper2"
+             android:layout_alignTop="@+id/imageButton"
+             android:layout_toRightOf="@+id/imageButton"
+             android:layout_toEndOf="@+id/imageButton"
+             android:layout_marginLeft="32dp"
+             android:layout_marginStart="32dp"
+             android:id="@+id/imageButton2" />
+     </RelativeLayout>
+</RelativeLayout>

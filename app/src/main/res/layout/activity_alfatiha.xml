@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_alfatiha"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbarThumbVertical="@drawable/vertical_scrollview_bg"
+    android:scrollbarTrackVertical="@drawable/vertical_scrollview_line"
+    tools:context="com.example.diorizkyandita.ramadhanaplication.Alfatiha">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Surah Al-fatiha"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24dp"
+            android:text="بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ\n\n
+           artinya : dengan menyebut nama allah yang maha pengasih lagi maha penyayang.\n\n
+                الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ\n\n
+           artinya: segala puju bagi allah tuhan semesta alam.\n\n
+           الرَّحْمَنِ الرَّحِيمِ\n\n
+           artinya : maha pemurah lagi maha penyayang.\n\n
+           مَالِكِ يَوْمِ الدِّينِ\n\n
+           artinya : yang menguasai hari pembalasan.\n\n
+           إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ\n\n
+           artinya : hanya kepada engkau kami menyembah dan hanya kepada engkaulah kami meminta pertolongan.\n\n
+           اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ\n\n
+           artinya: tunjukilah kami jalan yang lurus.\n\n
+           صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلا الضَّالِّينَ\n\n
+           artinya : yaitu jalan  orang - orang yang telah engkau anugerahkan nikmat kepada mereka , bukan jalan mereka yang dimurkai dan bukan pula jalan mereka yang sesat.\n\n" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnPlay"
+        android:text="Play"/>
+
+    </LinearLayout>
+
+</ScrollView>
